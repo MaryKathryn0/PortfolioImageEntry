@@ -1,5 +1,5 @@
 // timer to automatically cycle through x images
-var images = ["0A0Q1pD.jpg", "0rGZQud.jpg", "0VWuvmu.jpg", "1CuFckW.jpg", "1pDN9Gx.jpg", "2BpaHvh.jpg"];
+var images = ["Lois0.JPG", "Lois1.JPG", "Lois2.JPG", "Lois3.JPG", "Lois4.JPG", "Lois5.JPG","Lois6.JPG"];
 
 
 
