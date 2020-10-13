@@ -1,0 +1,7 @@
+.placeHolder {
+    width: 300px;
+    height: 500px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(97, 97, 97);
+}
