@@ -17,7 +17,7 @@ function timer() {
             $("#image-div").empty();
             // display new image
             var element = (`
-            <img src="./GrimmeDevTesting/images/${images[counter]}" alt="${images[counter]}"/>            
+            <img src="./GrimmeDevTesting/images/${images[counter]}" alt="${images[counter]}" style ="width: 40%"/>            
             `);
             // var element = $("<img>");
             // element.attr("src", `./Unsolved/images/${images[counter]}`);
@@ -31,7 +31,7 @@ function timer() {
         else {
             clearInterval(interval);
         }
-    }, 3000);
+    }, 1000);
 }
 
 $(document).ready(timer);
